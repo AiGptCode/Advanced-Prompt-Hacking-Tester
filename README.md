@@ -1,5 +1,10 @@
 # Advanced Prompt Hacking Tester
 
+
+This code implements an Advanced Prompt Hacking Tester, which allows users to test the responses of an AI system by generating various types of prompts. It includes methods to generate random prompts, contextual adversarial prompts by modifying the original prompts semantically, and inappropriate prompts. The execute_prompt_test method processes a given prompt using the AI system and saves the prompt-response pair in a JSON file if specified. The run_tests method runs a specified number of tests, generating prompts of random types and executing them. The example usage section demonstrates how to use the code with a mock AI system. This project aims to provide a tool for testing AI systems’ responses to different types of prompts, aiding in evaluating their robustness and performance
+
+
+
 این پروژه یک تستر پیشرفته برای هک کردن پاسخ‌های یک سیستم هوش مصنوعی را پیاده‌سازی می‌کند.
 
 ## نصب
