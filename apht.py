@@ -59,7 +59,7 @@ class AdvancedPromptHackingTester:
         print(f"Input prompt: {prompt}\nOutput response: {response}\n")
 
     def run_tests(self, num_tests, save_results=False):
-        for _ in range(num_tests): ```python
+        for _ in range(num_tests):
             prompt_type = random.choice(["random", "contextual_adversarial", "inappropriate"])
 
             if prompt_type == "random":
