@@ -3,7 +3,7 @@
 
 <center>
 
-!(https://i.ibb.co/bWm4v6v/image.png)
+![](https://i.ibb.co/bWm4v6v/image.png)
 
 </center>
 
